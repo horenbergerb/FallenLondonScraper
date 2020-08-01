@@ -1,0 +1,36 @@
+Title: A Day for Reading
+ Description: SPOILERS AHEAD! BE WARNED! The two devils in high collars and gold epaulettes examine your papers. They pay particular interest to your journal.
+Title: A Day Outside of Days
+ Description: SPOILERS AHEAD! BE WARNED! There is a wrought-brass gate. You can see it; you can see through it, too. And yet you do not know what is on the far side. Or why the devils smile so widely when you ask.
+Title: Ambition: Nemesis 32 - The Prison
+ Description: SPOILERS AHEAD! BE WARNED!' - that the prison was called Eternal Love today. The name ill suited the squat, rust-studded iron fortress. I hurried to the gate. Lethally sharp rain slept in the clouds.'
+Title: Ambition: Nemesis 33 - Yellow Blood Day
+ Description: SPOILERS AHEAD! BE WARNED!' - back at the prison, today named the Garden of Rightful Quietude. I had an appointment I did not plan to miss.'
+Title: Day 1, Hurled from High Places
+ Description: SPOILERS AHEAD! BE WARNED!' - I had only been ashore minutes when the burning sky opened and disgorged a mass of new laws for the Republic.'
+Title: Day 12, Font of Disobedience
+ Description: SPOILERS AHEAD! BE WARNED!' - and a gleeful shriek as she flew past, heading towards the top of the Finger Tower. Her cousin was burning with a bright new flame […] It was then we realised that laws were being applied on an individual level...'
+Title: Day 17, Burning the Ashes
+ Description: SPOILERS AHEAD! BE WARNED!'(…) the din of a street protest - this time against the Face Tax. This is hardly notable in the Iron Republic, but the problems started when exactly the same protest marched up from behind us, and we were stuck between the shouting doubles.
+Title: Day 23, Screaming against Regret
+ Description: SPOILERS AHEAD! BE WARNED! - came across a fierce young woman of the breed often seen here. She buttonholed me with an ink-stained finger and insisted that all ills were rooted in an excess of nostalgia.'
+Title: Day 27, Nobler Hunger
+ Description: SPOILERS AHEAD! BE WARNED!' - Republic almost always has an Obloquy Fountain, usually in a prominent position in some civic square.'
+Title: Day 30, The Golden Interval
+ Description: SPOILERS AHEAD! BE WARNED!' - the fashion or law, the two are often the same here, for selecting a ruler by drawn lot. Of course, these unfortunates never last long.'
+Title: Day 32, Blood Like Tar
+ Description: SPOILERS AHEAD! BE WARNED!' - the commotion in Directory Square was rumoured to be due to a particularly potent phenomenon of new arithmetic or meterorology, but when I got there I saw something more like a festival.'
+Title: Day 34, Crowns Without Number
+ Description: SPOILERS AHEAD! BE WARNED!' - strolling through the fog, which was something of an effort, as it had the consistency of thin porridge and stuck to one's hair. A passing devil pushed a noose into my hand and told me I was the Republic's chief judge for the afternoon.'
+Title: Day 38, Hope Failing
+ Description: SPOILERS AHEAD! BE WARNED!' - and apart from the prison - this week called the Palace of Definition - the most dangerous landmark in the Republic is a wall.'
+Title: Day 40, Talons Marking Solitude
+ Description: SPOILERS AHEAD! BE WARNED!' - was introduced to Miss Baggers, who was at one time the star barrister of Baseborn& Fowlingpiece in London. Years in the Republic sat lightly on her, and she claimed to have found her true home here.
+Title: Day 48, Above Eagles
+ Description: SPOILERS AHEAD! BE WARNED!' - the great Market of Hungers […] is one of the more stable areas of the Republic. One could almost think that the citizens enjoy the joke enough to ensure the place is spared the worst inconstancies.'
+Title: Day 55, Screaming Alone
+ Description: SPOILERS AHEAD! BE WARNED!' - devil would even consider dealing souls in the Market of Hungers. For in the Iron Republic, such transactions are cast as inspiration, absolution or conversion rather than a matter of trade.'
+Title: Day 64, Clasped in Thunder
+ Description: SPOILERS AHEAD! BE WARNED!' - despite all this death and suffering, the Iron Republic grows larger every year. Do people really value this sort of freedom?'
+Title: Harbour Provisioners
+ Description: Scattered stalls on the dock-side. A sluggish and hostile merchant squints warily at you. A few goods of indifferent quality are available.

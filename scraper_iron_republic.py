@@ -45,6 +45,11 @@ final_output = ""
 for url in urls:
     title, description = get_data_from_page(url)
     final_output += "Title: " + title + "\n " + "Description: " + description + "\n"
-    sleep(3)
+    #not sure if i ought to sleep to avoid detection
+    #sleep(3)
 
 print(final_output)
+
+text_file = open("iron_republic.txt", 'w')
+n = text_file.write(final_output.encode('utf8'))
+text_file.close()
