@@ -3,3 +3,4 @@ Will try to feed this to AI Dungeon
 
 TO DO:
 Remove duplicate entries (I should have patched the code so that re-running will do this anyways)
+Remove "SPOILER" bits (not all formatted identically, but there seems to only be a handful of variations)
