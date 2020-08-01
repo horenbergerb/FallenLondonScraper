@@ -44,7 +44,7 @@ final_output = ""
 
 for url in urls:
     title, description = get_data_from_page(url)
-    final_output += "Title: " + title + "\n " + "Description: " + description + "\n"
+    final_output += "Title: " + title + "\n" + "Description: " + description + "\n"
     #not sure if i ought to sleep to avoid detection
     #sleep(3)
 

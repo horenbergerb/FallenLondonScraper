@@ -1,0 +1,5 @@
+Scraping data to potentially use for ML noodling
+Will try to feed this to AI Dungeon
+
+TO DO:
+Remove duplicate entries (I should have patched the code so that re-running will do this anyways)
